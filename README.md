@@ -14,6 +14,8 @@
 ### Olá! Bem vindo 👋🚀
 
 - 💻 ReactJS, Javascript, TypeScript, Ruby, Nodejs, Jest, Git.
+- 📖 Atualmente cursando Ciências & Tecnologia na **UFRN**, com ênfase em computação aplicada.
+- 💜  Apaixonado pela área de front-end.
 - ✨ Estou sempre aprendendo, na busca para me tornar melhor a cada dia.
 
 
