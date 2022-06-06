@@ -1,7 +1,7 @@
 
 <img align="right" src="https://i.imgur.com/P2eHx9l.png" width="350"/>
 
-<a href="[https://www.linkedin.com/in/herlloncardoso](https://github.com/maoiki)">
+<a href="https://www.linkedin.com/in/julioduartedev/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-blue"/>
 </a>
 
