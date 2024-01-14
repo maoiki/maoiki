@@ -13,7 +13,7 @@
 
 ### Olá! Bem vindo 👋🚀
 
-- 💻 ReactJS, React Native, Vue, Javascript, Git.
+- 💻 ReactJS, React Native, Vue, Javascript, Java e Python.
 - 📖 Atualmente cursando Ciências & Tecnologia na **UFRN**.
 - 💜  Apaixonado pela área de front-end, principalmente pelos tópicos de acessibilidade.
 - ✨ Estou sempre aprendendo, na busca para me tornar melhor a cada dia.
